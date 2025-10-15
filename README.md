@@ -1,2 +1,4 @@
 # PrimerApp_Peliculas_Alura
-Ejercicio de repaso
+Ejercicio de repaso en el curso de especialización de backend de Alura LATAM
+Este ejercicio esta realizado en lenguaje Java
+El tema principal son películas, usamos datos de tipo entero, doble, string
